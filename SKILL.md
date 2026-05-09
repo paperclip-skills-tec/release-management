@@ -1,13 +1,6 @@
 ---
 name: release-management
-description: >
-  Guides the full release workflow — pre-release verification, semantic version bump, CHANGELOG
-  generation, release PR creation, and post-release tag/artifact checks. Use this skill whenever
-  you are asked to "cut a release", "bump the version", "prepare a release PR", "write the
-  CHANGELOG", or "execute the vX.Y.Z release". Also trigger it when you detect that release-related
-  steps are needed during a sprint close-out or when CI/CD is passing and the branch is ready to
-  ship. Prevents the common failure mode of improvising the multi-step sequence from memory each
-  time.
+description: "Guides the full release workflow — pre-release verification, semantic version bump, CHANGELOG generation, release PR creation, and post-release tag/artifact checks. Use this skill whenever you are asked to \"cut a release\", \"bump the version\", \"prepare a release PR\", \"write the CHANGELOG\", or \"execute the vX.Y.Z release\". Also trigger it when you detect that release-related steps are needed during a sprint close-out or when CI/CD is passing and the branch is ready to ship. Prevents the common failure mode of improvising the multi-step sequence from memory each time."
 ---
 
 # Release Management
